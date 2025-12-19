@@ -1,0 +1,6 @@
+# 1. Пути к папкам с данными (относительно корневой папки dataset)
+train: ai/data/train/images
+val: ai/data/val/images
+nc: 4
+# 3. Названия классов (В ПОРЯДКЕ, СООТВЕТСТВУЮЩЕМ ИНДЕКСАМ 0, 1, 2, 3!)
+names: ['GLASS', 'METAL', 'PAPER', 'PLASTIC']
