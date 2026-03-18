@@ -82,6 +82,9 @@ The Smart Waste Sorter is an automated waste sorting system that combines:
 - YOLOv8 Model: Pre-trained classification model
 - Dobot Magician: Robotic arm with gripper end effector
 
+<img width="962" height="1074" alt="image" src="https://github.com/user-attachments/assets/b5bc107b-2d4b-4faa-9bdb-2c0b15cedb77" />
+
+
 ---
 
 ## Application Workflow
