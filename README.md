@@ -452,7 +452,7 @@ Planned or potential improvements:
 ## Contributors  
 
 The given work is contributed and supported by [Atilla](https://github.com/Atilla888) 
-and 
+and  [Rayimbek](https://github.com/TheGtRick)
 
 This project is part of a university course (Applied Robotics).
 
